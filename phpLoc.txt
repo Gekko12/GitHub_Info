@@ -1,0 +1,17 @@
+*********************************  XAMPP  ******************************
+
+Check whether XAMPP is running by typing in browser ->
+	http://localhost
+
+Start the XAMPP using cmd ->
+	sudo /opt/lampp/lampp start
+
+Open the XAMPP control panel by typing ->
+	sudo /opt/lampp/manager-linux-x64.run
+	
+Write and save your PHP program in -> 
+	/opt/lampp/htdocs/PHPtuts
+
+Now to run them use ->
+	http://localhost/PHPtuts
+
